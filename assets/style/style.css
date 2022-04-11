@@ -1,1 +1,18 @@
 /* BASIC STYLES HERE */
+.w-30 {
+    width: 30%;
+}
+.w-10 {
+    width:10%
+}
+.transparent-primary {
+    background-color: rgba(59, 166, 220, 0.527);
+}
+.w-auto{
+    width: auto;
+}
+.clickable:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+    text-shadow: 1px 1px 1px ;
+}
